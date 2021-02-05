@@ -4,6 +4,7 @@ import "./styles.css";
 let text = "lol";
 let color = "red";
 let name = "sheshu";
+/*let x = 0;*/
 
 export default function App() {
   const [likeCounter, setCounter] = useState(0);
